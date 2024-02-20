@@ -1,4 +1,3 @@
-# Tabela-SQL-Aula-banco-de-dados-
 
 -- create
 CREATE TABLE jogos (
